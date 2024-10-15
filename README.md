@@ -1,6 +1,8 @@
 # Sample_Web_app_Hosted_using_AWS_Elasticbeanstalk
 Mini Project: Sample web application hosted using AWS Elastic Beanstalk.
+
 ![First step in application creation using elastic Beanstalk](https://github.com/AbdulR431/Sample_Web_app_Hosted_using_AWS_Elasticbeanstalk/blob/main/Images/Step%202.PNG)
+
 ![Then we need to create an environment](https://github.com/AbdulR431/Sample_Web_app_Hosted_using_AWS_Elasticbeanstalk/blob/main/Images/Step%203.PNG)
 ![next choose webserver environment](https://github.com/AbdulR431/Sample_Web_app_Hosted_using_AWS_Elasticbeanstalk/blob/main/Images/Step%204-2.PNG)
 ![choose the platform u need](https://github.com/AbdulR431/Sample_Web_app_Hosted_using_AWS_Elasticbeanstalk/blob/main/Images/Step%204-3.PNG)
